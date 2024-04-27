@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
-<div align=center>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeon00%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23B53EFF&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
-</div>
+
 <div align=center><h1>JIHYEON's GitHub</h1></div>
 
 
@@ -11,7 +9,7 @@
 <a href="https://github.com/jihyeon00/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jihyeon00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=7f38ec&text_color=000&title_color=000&count_private=true" width=56% />
 </a>
- <br> <br> <br>
+<br> <br> <br>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
@@ -30,4 +28,10 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br>
+</div>
+
+
+
+<div align=center>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeon00%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23B53EFF&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 </div>
