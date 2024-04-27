@@ -1,6 +1,6 @@
 <a id="waving">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient&&width=200)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient&&width=300)
 
 
 <a href="https://github.com/jihyeon00/github-readme-stats">
