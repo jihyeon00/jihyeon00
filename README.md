@@ -11,10 +11,7 @@
 <a href="https://github.com/jihyeon00/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jihyeon00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=7f38ec&text_color=000&title_color=000&count_private=true" width=56% />
 </a>
-
-
-
-
+ <br> <br> <br>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
