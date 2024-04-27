@@ -3,12 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient&&width=100%)
 
 
-<a href="https://github.com/jihyeon00/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyeon00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=7f38ec&text_color=000&title_color=000&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
-<a href="https://github.com/jihyeon00/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jihyeon00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=7f38ec&text_color=000&title_color=000&count_private=true" width=56% />
-</a>
+
 <br> <br> <br>
 <div align=center><h1>📚 STACKS</h1></div>
 
