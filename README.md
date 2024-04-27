@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=0" width="100%"/>
-<h2>
+<div></div>
+<h1>
     JIHYEON's GitHub
-</h2>
+</h1>
 
 
 <a href="https://github.com/jihyeon00/github-readme-stats">
@@ -15,3 +16,6 @@
 </a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeon00%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23B53EFF&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
