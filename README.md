@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=JIHYEON%27s%20GitHub&fontSize=40&fontAlignY=30" width="100%"/>
-<a id="waving">
+## Waving <a id="waving">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
 
