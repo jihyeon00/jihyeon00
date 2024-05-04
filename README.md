@@ -3,9 +3,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
 <br> 
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1>📚 STACKS</h1></div>
 
-<div align=center>
+<div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -23,16 +23,16 @@
     <br>
 </div>
 <br> 
-<div align=center><h1>💪🏼 TOOLS</h1></div>
+<div><h1>💪🏼 TOOLS</h1></div>
 
-<div align=center>
+<div>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<div align=center><h1>🐱 About Me</h1></div>
+<div><h1>🐱 About Me</h1></div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mkiopl01@gmail.com)](mkiopl01@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/9fbefdd5d9ec4b00962d338bd7a73d70?v=f1677ee554f947d8ad51ba7373cd4c2a&pvs=4)](https://www.notion.so/9fbefdd5d9ec4b00962d338bd7a73d70?v=f1677ee554f947d8ad51ba7373cd4c2a&pvs=4)
