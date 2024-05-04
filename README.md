@@ -25,7 +25,7 @@
 </div>
 <br> 
 <div align=center><h1>💪🏼 TOOLS</h1></div>
-<br> <br>
+
 <div align=center>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
