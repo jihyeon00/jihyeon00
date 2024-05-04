@@ -2,7 +2,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
-<br> 
 <div><h2>📚 STACKS</h2></div>
 
 <div>
