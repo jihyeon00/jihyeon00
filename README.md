@@ -23,7 +23,13 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br>
 </div>
-<br> <br> <br>
+<br> 
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center><h1>💪🏼 TOOLS</h1></div>
+<br> <br>
 <div align=center>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihyeon00%2Fhit-counter&count_bg=%239A9A9A&title_bg=%23B53EFF&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 </div>
