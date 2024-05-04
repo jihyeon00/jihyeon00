@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&width=100&height=200&text=JIHYEON&fontAlign=80&fontAlignY=40&color=gradient)
 
 <br> 
-<div><h1>📚 STACKS</h1></div>
+<div><h2>📚 STACKS</h2></div>
 
 <div>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -23,7 +23,7 @@
     <br>
 </div>
 <br> 
-<div><h1>💪🏼 TOOLS</h1></div>
+<div><h2>💪🏼 TOOLS</h2></div>
 
 <div>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<div><h1>🐱 About Me</h1></div>
+<div><h2>🐱 About Me</h2></div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mkiopl01@gmail.com)](mkiopl01@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/9fbefdd5d9ec4b00962d338bd7a73d70?v=f1677ee554f947d8ad51ba7373cd4c2a&pvs=4)](https://www.notion.so/9fbefdd5d9ec4b00962d338bd7a73d70?v=f1677ee554f947d8ad51ba7373cd4c2a&pvs=4)
